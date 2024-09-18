@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By DAIMA MD_*
+*_Session Connected By HOPELESS XD_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN DAIMA MD』*
+║ *『AMAZING YOU'VE CHOSEN HOPELESS XD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@henrygokugt256
-║❒ *Owner:* _https://wa.me/message/256701507880_
-║❒ *Repo:* _https://github.com/henrygokugt99/DAIMA-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r_
+║❒ *Owner:* _https://wa.me/message/256789810043_
+║❒ *Repo:* _https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/CkIGluck2EI6zToAmhw2Nw_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23_
-║❒ *Plugins:* _https://github.com/henrygokugt99 
+║❒ *Plugins:* _https://github.com/HENRYGOKUGT0 
 ╚════════════════════════╝
 _____________________________________
 	
