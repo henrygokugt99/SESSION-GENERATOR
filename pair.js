@@ -68,9 +68,9 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@henrygokugt256_
 ║❒ *Owner:* _https://wa.me/256778559435_
-║❒ *Repo:* _https://github.com/jjprimeuc/Pubg-mobile
-║❒ *WaGroup:* _https://chat.whatsapp.com/EL9QjA8ETpOFqXGx8Cn4jl
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaf1Gr2EQIaqTOwWCi2J
+║❒ *Repo:* _https://github.com/jjprimeuc/Pubg-mobile_
+║❒ *WaGroup:* _https://chat.whatsapp.com/EL9QjA8ETpOFqXGx8Cn4jl_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaf1Gr2EQIaqTOwWCi2J_
 ║         made by *JOEL PRIME👿*
 ╚════════════════════════╝
 _____________________________________
