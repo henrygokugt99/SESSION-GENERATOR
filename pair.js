@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by HOPELESS XD*
-*_Made With 🤍_*
+*_Pair Code Connected by PUBG MD*
+*_Made With 🥱_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN HOPELESS XD 』*
+║ *『 WOW YOU'VE CHOSEN PUBG TEAM 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@henrygokugt256_
-║❒ *Owner:* _https://wa.me/256789810043_
-║❒ *Repo:* _https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD
-║❒ *WaGroup:* _https://chat.whatsapp.com/CkIGluck2EI6zToAmhw2Nw
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23
-║❒ *Plugins:* _https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD-PLUGINS_
+║❒ *Owner:* _https://wa.me/256778559435_
+║❒ *Repo:* _https://github.com/jjprimeuc/Pubg-mobile
+║❒ *WaGroup:* _https://chat.whatsapp.com/EL9QjA8ETpOFqXGx8Cn4jl
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaf1Gr2EQIaqTOwWCi2J
+║         made by *JOEL PRIME👿*
 ╚════════════════════════╝
 _____________________________________
 
